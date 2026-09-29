@@ -315,17 +315,12 @@ baseURL: "https://jobtracker-backend-kjmc.onrender.com"
 
 # Author
 
-**Shivangi Tiwari**
+**Arpit Verma**
 
 B.Tech Computer Science Engineering
 
 VIT Bhopal University
 
-GitHub:
-https://github.com/shivangitiwari0411
-
-LinkedIn:
-https://www.linkedin.com/in/shivangi-tiwari0411/
 
 ---
 
